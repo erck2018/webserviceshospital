@@ -18,6 +18,7 @@ response_dict = response.json()
 token = response_dict.get('token')
 #print(response.text)
 print(token)
+print(response.text)
 
 #variable="token"
 #authen=f"beard {token}"
