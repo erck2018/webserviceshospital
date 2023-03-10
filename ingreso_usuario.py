@@ -19,6 +19,9 @@ token = response_dict.get('token')
 #print(response.text)
 print(token)
 print(response.text)
+a="xd"
+print(a)
+
 
 #variable="token"
 #authen=f"beard {token}"
